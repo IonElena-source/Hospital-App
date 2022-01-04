@@ -12,7 +12,7 @@ const router = new Router({
         { path: "/", name: Main, component: Main },
         { path: "/home", name: Home, component: Home },
         { path: "/Doctors", name: Doctors, component: Doctors },
-        { path: "/Pacienti", name: Pacienti, component: Pacienti }
+        { path: "/Pacienti", name: Pacienti, component: Pacienti },
     ]
 })
 export default router

@@ -1,9 +1,7 @@
 <template>
 <div class="sidebar">
-
     <nav>
         <ul>
-
             <li v-on:click="goToDoctors">
                 <img src="../assets/medical-team.png">
             </li>
@@ -17,7 +15,6 @@
             </li>
         </ul>
     </nav>
-
 </div>
 </template>
 
