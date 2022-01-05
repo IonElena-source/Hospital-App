@@ -2,7 +2,7 @@
 <div id="home">
 
     <img src="../assets/10130.jpg" width="74%" height="50vh" style="margin-left:190px">
-	<router-link to="/home">
+	<router-link to="/doctors">
 		<img src="../assets/log-in.png"  style="position:absolute;margin-top:250px; margin-left:-1110px"></router-link
 		>
 	</div>
